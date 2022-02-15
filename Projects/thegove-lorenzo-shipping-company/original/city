@@ -1,0 +1,602 @@
+"city_id","city_name","state","population","area"
+100,"Union City","New Jersey",67088,1.30
+101,"Huntington Park","California",61348,3.00
+102,"Passaic","New Jersey",67861,3.10
+103,"Hempstead","New York",56554,3.70
+104,"Berwyn","Illinois",54016,3.90
+105,"East Orange","New Jersey",69824,3.90
+106,"Somerville","Massachusetts",77478,4.10
+107,"Mount Vernon","New York",68381,4.40
+108,"Oak Park","Illinois",52524,4.70
+109,"Paramount","California",55266,4.70
+110,"Lynwood","California",69845,4.90
+111,"Malden","Massachusetts",56340,5.10
+112,"Rosemead","California",53505,5.10
+113,"Lakewood","Ohio",56646,5.50
+114,"Bayonne","New Jersey",61842,5.60
+115,"Gardena","California",57746,5.80
+116,"Cicero","Illinois",85616,5.80
+117,"Bellflower","California",72878,6.10
+118,"Hawthorne","California",84112,6.10
+119,"Redondo Beach","California",63261,6.30
+120,"Cambridge","Massachusetts",101355,6.40
+121,"Baldwin Park","California",75837,6.70
+122,"Lawrence","Massachusetts",72043,7.00
+123,"Miami Beach","Florida",87933,7.00
+124,"Lauderhill","Florida",57585,7.30
+125,"La Habra","California",58974,7.30
+126,"Lancaster","Pennsylvania",56348,7.40
+127,"National City","California",54260,7.40
+128,"South Gate","California",96375,7.40
+129,"Daly City","California",103621,7.60
+130,"Alhambra","California",85804,7.60
+131,"Monterey Park","California",60051,7.60
+132,"Evanston","Illinois",74239,7.70
+133,"Trenton","New Jersey",85403,7.70
+134,"Medford","Massachusetts",55765,8.10
+135,"Montebello","California",62150,8.20
+136,"Santa Monica","California",84084,8.30
+137,"Pico Rivera","California",63428,8.30
+138,"Paterson","New Jersey",149222,8.40
+139,"North Miami","Florida",59880,8.50
+140,"Oak Lawn","Illinois",55245,8.60
+141,"Cerritos","California",51488,8.60
+142,"Pawtucket","Rhode Island",72958,8.70
+143,"Camden","New Jersey",79904,8.80
+144,"Margate","Florida",53909,8.80
+145,"Fountain Valley","California",54978,8.90
+146,"South San Francisco","California",60552,9.00
+147,"Inglewood","California",112580,9.10
+148,"La Mesa","California",54749,9.30
+149,"Lakewood","California",79345,9.40
+150,"El Monte","California",115965,9.60
+151,"Norwalk","California",103298,9.70
+152,"Reading","Pennsylvania",81207,9.80
+153,"White Plains","New York",53077,9.80
+154,"Skokie","Illinois",63348,10.00
+155,"Gaithersburg","Maryland",52613,10.10
+156,"Compton","California",93493,10.10
+157,"Westminster","California",88207,10.10
+158,"Mount Prospect","Illinois",56265,10.20
+159,"New Rochelle","New York",72182,10.40
+160,"Davis","California",60308,10.50
+161,"Berkeley","California",102743,10.50
+162,"Buena Park","California",78282,10.60
+163,"Taylorsville","Utah",57439,10.70
+164,"Euclid","Ohio",52717,10.70
+165,"West Haven","Connecticut",52360,10.80
+166,"Schenectady","New York",61821,10.80
+167,"Alameda","California",72259,10.80
+168,"Wilmington","Delaware",72664,10.80
+169,"Lynn","Massachusetts",89050,10.80
+170,"Cupertino","California",50546,10.90
+171,"Arcadia","California",53054,11.00
+172,"Wheaton","Illinois",55416,11.20
+173,"West Allis","Wisconsin",61254,11.30
+174,"Clifton","New Jersey",78672,11.30
+175,"Tustin","California",67504,11.40
+176,"Tamarac","Florida",55588,11.40
+177,"Florissant","Missouri",50497,11.40
+178,"St. Clair Shores","Michigan",63096,11.50
+179,"Dearborn Heights","Michigan",58264,11.70
+180,"Shoreline","Washington",53025,11.70
+181,"Royal Oak","Michigan",60062,11.80
+182,"Mountainew","California",70708,12.10
+183,"Lodi","California",56999,12.20
+184,"San Mateo","California",92482,12.20
+185,"Elizabeth","New Jersey",120568,12.20
+186,"Downey","California",107323,12.40
+187,"Santa Cruz","California",54593,12.50
+188,"Lake Forest","California",58707,12.50
+189,"Waltham","Massachusetts",59226,12.70
+190,"Palatine","Illinois",65479,13.00
+191,"San Leandro","California",79452,13.10
+192,"New Britain","Connecticut",71538,13.30
+193,"Turlock","California",55810,13.30
+194,"Deerfield Beach","Florida",64583,13.40
+195,"Milpitas","California",62698,13.60
+196,"Petaluma","California",54548,13.80
+197,"Lowell","Massachusetts",105167,13.80
+198,"Sheboygan","Wisconsin",50792,13.90
+199,"Niagara Falls","New York",55593,14.10
+200,"Citrus Heights","California",85071,14.30
+201,"Springfield","Oregon",52864,14.40
+202,"Des Plaines","Illinois",58720,14.40
+203,"Whittier","California",83680,14.60
+204,"El Cajon","California",94869,14.60
+205,"Laguna Niguel","California",61891,14.70
+206,"Diamond Bar","California",56287,14.80
+207,"Newport Beach","California",70032,14.80
+208,"Sarasota","Florida",52715,14.90
+209,"Jersey City","New Jersey",240055,14.90
+210,"Kenner","Louisiana",70517,15.10
+211,"Upland","California",68393,15.10
+212,"Alexandria","Virginia",128283,15.20
+213,"Delray Beach","Florida",60020,15.40
+214,"Racine","Wisconsin",81855,15.50
+215,"Pittsburg","California",56769,15.60
+216,"Costa Mesa","California",108724,15.60
+217,"Largo","Florida",69371,15.70
+218,"Boynton Beach","Florida",60389,15.90
+219,"Huntington","Westrginia",51475,15.90
+220,"Bridgeport","Connecticut",139529,16.00
+221,"West Covina","California",105080,16.10
+222,"Santee","California",52975,16.10
+223,"Bowie","Maryland",50269,16.10
+224,"Utica","New York",60651,16.30
+225,"Beaverton","Oregon",76129,16.30
+226,"Arlington Heights","Illinois",76031,16.40
+227,"San Rafael","California",56063,16.60
+228,"Quincy","Massachusetts",88025,16.80
+229,"Champaign","Illinois",67518,17.00
+230,"Renton","Washington",50052,17.00
+231,"Idaho Falls","Idaho",50730,17.10
+232,"Clovis","California",68468,17.10
+233,"Lakewood","Washington",58211,17.10
+234,"Burbank","California",100316,17.30
+235,"Hartford","Connecticut",121578,17.30
+236,"Saginaw","Michigan",61799,17.40
+237,"Owensboro","Kentucky",54067,17.40
+238,"Napa","California",72585,17.70
+239,"Allentown","Pennsylvania",106632,17.70
+240,"Garden Grove","California",165196,18.00
+241,"Yonkers","New York",196086,18.10
+242,"Newton","Massachusetts",83829,18.10
+243,"North Richland Hills","Texas",55635,18.20
+244,"Sunrise","Florida",85779,18.20
+245,"Santa Clara","California",102361,18.40
+246,"Orem","Utah",84324,18.40
+247,"Providence","Rhode Island",173618,18.50
+248,"Missionejo","California",93102,18.70
+249,"Vista","California",89857,18.70
+250,"Kettering","Ohio",57502,18.70
+251,"Carson","California",89730,18.80
+252,"New Haven","Connecticut",123626,18.90
+253,"Camarillo","California",57077,18.90
+254,"Schaumburg","Illinois",75386,19.00
+255,"Santa Barbara","California",92325,19.00
+256,"Salinas","California",151060,19.00
+257,"Encinitas","California",58014,19.10
+258,"Orland Park","Illinois",51077,19.10
+259,"Hialeah","Florida",226419,19.20
+260,"Santa Maria","California",77423,19.30
+261,"Bethlehem","Pennsylvania",71329,19.30
+262,"Union City","California",66869,19.30
+263,"Yorba Linda","California",58918,19.40
+264,"Great Falls","Montana",56690,19.50
+265,"Redwood City","California",75402,19.50
+266,"Bloomington","Indiana",69291,19.70
+267,"Walnut Creek","California",64296,19.90
+268,"Merced","California",63893,19.90
+269,"Elyria","Ohio",55953,19.90
+270,"Nampa","Idaho",51867,19.90
+271,"Pontiac","Michigan",66337,20.00
+272,"Parma","Ohio",85655,20.00
+273,"New Bedford","Massachusetts",93768,20.10
+274,"Yakima","Washington",71845,20.10
+275,"Lafayette","Indiana",56397,20.10
+276,"La Crosse","Wisconsin",51818,20.10
+277,"Frederick","Maryland",52767,20.40
+278,"St. Charles","Missouri",60321,20.40
+279,"Bolingbrook","Illinois",56321,20.50
+280,"Canton","Ohio",80806,20.50
+281,"Westland","Michigan",86602,20.50
+282,"Torrance","California",137946,20.50
+283,"Pompano Beach","Florida",78191,20.60
+284,"Layton","Utah",58474,20.70
+285,"Appleton","Wisconsin",70087,20.90
+286,"Federal Way","Washington",83259,21.00
+287,"Tracy","California",56929,21.00
+288,"Cheyenne","Wyoming",53011,21.10
+289,"Chino","California",67168,21.10
+290,"Ventura","California",100916,21.10
+291,"Portland","Maine",64249,21.20
+292,"St. Peters","Missouri",51381,21.20
+293,"Elkhart","Indiana",51874,21.40
+294,"Albany","New York",95658,21.40
+295,"Brockton","Massachusetts",94304,21.50
+296,"Waukesha","Wisconsin",64825,21.60
+297,"Hillsboro","Oregon",70186,21.60
+298,"Hamilton","Ohio",60690,21.60
+299,"Ames","Iowa",50731,21.60
+300,"Medford","Oregon",63154,21.70
+301,"Folsom","California",51884,21.70
+302,"Pleasanton","California",63654,21.70
+303,"Plantation","Florida",82934,21.70
+304,"Longmont","Colorado",71093,21.80
+305,"Marietta","Georgia",58748,21.90
+306,"Rialto","California",91873,21.90
+307,"Sunnyvale","California",131760,21.90
+308,"Erie","Pennsylvania",103717,22.00
+309,"Fullerton","California",126003,22.20
+310,"Gresham","Oregon",90205,22.20
+311,"Sandy","Utah",88418,22.30
+312,"Milford","Connecticut",50594,22.30
+313,"Bloomington","Illinois",64808,22.50
+314,"Springfield","Ohio",65358,22.50
+315,"Coon Rapids","Minnesota",61607,22.70
+316,"Pensacola","Florida",56255,22.70
+317,"Norwalk","Connecticut",82951,22.80
+318,"Pomona","California",149473,22.80
+319,"Hammond","Indiana",83048,22.90
+320,"Kennewick","Washington",54693,22.90
+321,"Chicopee","Massachusetts",54653,22.90
+322,"Waukegan","Illinois",87901,23.00
+323,"Pasadena","California",133936,23.10
+324,"Orange","California",128821,23.40
+325,"Oshkosh","Wisconsin",62916,23.60
+326,"Taylor","Michigan",65868,23.60
+327,"Palo Alto","California",58598,23.70
+328,"Meriden","Connecticut",58244,23.70
+329,"Missoula","Montana",57053,23.80
+330,"San Marcos","California",54977,23.80
+331,"Kenosha","Wisconsin",90352,23.80
+332,"Newark","New Jersey",273546,23.80
+333,"Coral Springs","Florida",117549,23.90
+334,"Sparks","Nevada",66346,23.90
+335,"Livermore","California",73345,23.90
+336,"Lorain","Ohio",68652,24.00
+337,"Sugar Land","Texas",63328,24.10
+338,"Muncie","Indiana",67430,24.20
+339,"Iowa City","Iowa",62220,24.20
+340,"Wyoming","Michigan",69368,24.40
+341,"Dearborn","Michigan",97775,24.40
+342,"Boulder","Colorado",94673,24.40
+343,"Midwest City","Oklahoma",54088,24.60
+344,"Loveland","Colorado",50608,24.60
+345,"Kalamazoo","Michigan",77145,24.70
+346,"Burnsville","Minnesota",60220,24.90
+347,"Elgin","Illinois",94487,25.00
+348,"Syracuse","New York",147306,25.10
+349,"Scranton","Pennsylvania",76415,25.20
+350,"Oxnard","California",170358,25.30
+351,"Clearwater","Florida",108787,25.30
+352,"Bellingham","Washington",67171,25.60
+353,"Greenville","North Carolina",60476,25.60
+354,"Hemet","California",58812,25.60
+355,"Middletown","Ohio",51605,25.70
+356,"Round Rock","Texas",61136,26.10
+357,"Greenville","South Carolina",56002,26.10
+358,"Brooklyn Park","Minnesota",67388,26.10
+359,"Southfield","Michigan",78296,26.20
+360,"Temecula","California",57716,26.30
+361,"Huntington Beach","California",189594,26.40
+362,"Dubuque","Iowa",57686,26.50
+363,"Bristol","Connecticut",60062,26.50
+364,"Ogden","Utah",77226,26.60
+365,"Mentor","Ohio",50278,26.80
+366,"Thornton","Colorado",82384,26.90
+367,"Bismarck","North Dakota",55532,26.90
+368,"Antioch","California",90532,26.90
+369,"Ann Arbor","Michigan",114024,27.00
+370,"Vacaville","California",88625,27.10
+371,"Santa Ana","California",337977,27.10
+372,"Minnetonka","Minnesota",51301,27.10
+373,"Boca Raton","Florida",74764,27.20
+374,"Hollywood","Florida",139357,27.30
+375,"Janesville","Wisconsin",59498,27.50
+376,"Chico","California",59954,27.70
+377,"Kent","Washington",79524,28.00
+378,"Lawrence","Kansas",80098,28.10
+379,"Pocatello","Idaho",51466,28.20
+380,"Cranston","Rhode Island",79269,28.60
+381,"Waterbury","Connecticut",107271,28.60
+382,"Richardson","Texas",91802,28.60
+383,"Visalia","California",91565,28.60
+384,"Monroe","Louisiana",53107,28.70
+385,"Miramar","Florida",72739,29.50
+386,"Missouri City","Texas",52913,29.70
+387,"Greeley","Colorado",76930,29.90
+388,"Richmond","California",99216,30.00
+389,"Concord","California",121780,30.10
+390,"Vallejo","California",116760,30.20
+391,"Melbourne","Florida",71382,30.20
+392,"St. Cloud","Minnesota",59107,30.20
+393,"Eau Claire","Wisconsin",61704,30.30
+394,"Roseville","California",79921,30.50
+395,"Glendale","California",194973,30.60
+396,"Bellevue","Washington",109569,30.70
+397,"Nashua","New Hampshire",86605,30.90
+398,"West Jordan","Utah",68336,30.90
+399,"Fall River","Massachusetts",91938,31.00
+400,"Terre Haute","Indiana",59614,31.20
+401,"Westminster","Colorado",100940,31.50
+402,"Charleston","Westrginia",53421,31.60
+403,"Fort Lauderdale","Florida",152397,31.70
+404,"Bend","Oregon",52029,32.00
+405,"Springfield","Massachusetts",152082,32.10
+406,"Eagan","Minnesota",63557,32.30
+407,"Eden Prairie","Minnesota",54901,32.40
+408,"Everett","Washington",91488,32.50
+409,"Arvada","Colorado",102153,32.70
+410,"Baytown","Texas",66430,32.70
+411,"Plymouth","Minnesota",65894,32.90
+412,"Rochester Hills","Michigan",68825,32.90
+413,"Maple Grove","Minnesota",50365,32.90
+414,"Victoria","Texas",60603,33.00
+415,"Manchester","New Hampshire",107006,33.00
+416,"Pembroke Pines","Florida",137427,33.10
+417,"Portsmouth","Virginia",100565,33.20
+418,"Haverhill","Massachusetts",58969,33.30
+419,"Farmington Hills","Michigan",82111,33.30
+420,"Davie","Florida",75720,33.40
+421,"Troy","Michigan",80959,33.50
+422,"Flint","Michigan",124943,33.60
+423,"Billings","Montana",89847,33.70
+424,"Youngstown","Ohio",82026,33.90
+425,"Harlingen","Texas",57564,34.10
+426,"Warren","Michigan",138247,34.30
+427,"Lansing","Michigan",119128,35.00
+428,"Corona","California",124966,35.10
+429,"Killeen","Texas",86911,35.30
+430,"Naperville","Illinois",128358,35.40
+431,"West Valley City","Utah",108896,35.40
+432,"Warwick","Rhode Island",85808,35.50
+433,"Bloomington","Minnesota",85172,35.50
+434,"Redlands","California",63591,35.50
+435,"Rocky Mount","North Carolina",55893,35.60
+436,"Livonia","Michigan",100545,35.70
+437,"Miami","Florida",362470,35.70
+438,"Modesto","California",188856,35.80
+439,"Rochester","New York",219773,35.80
+440,"Deltona","Florida",69543,35.80
+441,"Fontana","California",128929,36.10
+442,"Escondido","California",133559,36.30
+443,"Carrollton","Texas",109576,36.50
+444,"Sterling Heights","Michigan",124471,36.60
+445,"Odessa","Texas",90943,36.80
+446,"Lewisville","Texas",77737,36.80
+447,"Santa Fe","New Mexico",62203,37.30
+448,"Council Bluffs","Iowa",58268,37.40
+449,"Carlsbad","California",78247,37.40
+450,"Rancho Cucamonga","California",127743,37.40
+451,"Worcester","Massachusetts",172648,37.60
+452,"Stamford","Connecticut",117083,37.70
+453,"Fairfield","California",96178,37.70
+454,"Fargo","North Dakota",90599,37.90
+455,"Roswell","Georgia",79334,38.00
+456,"Biloxi","Mississippi",50644,38.00
+457,"Joliet","Illinois",106221,38.10
+458,"Aurora IL","Illinois",142990,38.50
+459,"South Bend","Indiana",107789,38.70
+460,"Murfreesboro","Tennessee",68816,39.00
+461,"Simi Valley","California",111351,39.20
+462,"Johnson City","Tennessee",55469,39.30
+463,"Provo","Utah",105166,39.60
+464,"Rochester","Minnesota",85806,39.60
+465,"Anderson","Indiana",59734,40.00
+466,"Santa Rosa","California",147595,40.10
+467,"Tempe","Arizona",158625,40.10
+468,"Lake Charles","Louisiana",71757,40.20
+469,"College Station","Texas",67890,40.30
+470,"Eugene","Oregon",137893,40.50
+471,"Oceanside","California",161029,40.60
+472,"Buffalo","New York",292648,40.60
+473,"Evansville","Indiana",121582,40.70
+474,"Bossier City","Louisiana",56461,40.80
+475,"Asheville","North Carolina",68889,40.90
+476,"Flower Mound","Texas",50702,40.90
+477,"Wilmington","North Carolina",75838,41.00
+478,"Decatur","Illinois",81860,41.60
+479,"Lakewood","Colorado",144126,41.60
+480,"Cary","North Carolina",94536,42.10
+481,"Danbury","Connecticut",74848,42.10
+482,"Battle Creek","Michigan",53364,42.80
+483,"Vancouver","Washington",143560,42.80
+484,"Roanoke","Virginia",94911,42.90
+485,"Gilbert","Arizona",109697,43.00
+486,"Hoover","Alabama",62742,43.10
+487,"Bryan","Texas",65660,43.30
+488,"Fayetteville","Arkansas",58047,43.40
+489,"Mesquite","Texas",124523,43.40
+490,"St. Joseph","Missouri",73990,43.80
+491,"Green Bay","Wisconsin",102313,43.90
+492,"Pasadena","Texas",141674,44.20
+493,"Hayward","California",140030,44.30
+494,"Peoria","Illinois",112936,44.40
+495,"Jacksonville","North Carolina",66715,44.50
+496,"Rapid City","South Dakota",59607,44.60
+497,"Grand Rapids","Michigan",197800,44.60
+498,"North Little Rock","Arkansas",60433,44.80
+499,"Chino Hills","California",66787,44.80
+500,"Broken Arrow","Oklahoma",74859,45.00
+501,"Pueblo","Colorado",102121,45.10
+502,"Pine Bluff","Arkansas",55085,45.60
+503,"Salem","Oregon",136924,45.70
+504,"Lakeland","Florida",78452,45.80
+505,"McAllen","Texas",106414,46.00
+506,"Gastonia","North Carolina",66277,46.10
+507,"Galveston","Texas",57247,46.20
+508,"Irvine","California",143072,46.20
+509,"Fort Collins","Colorado",118652,46.50
+510,"Taunton","Massachusetts",55976,46.60
+511,"San Francisco","California",776733,46.70
+512,"Lafayette","Louisiana",110257,47.60
+513,"Santa Clarita","California",151088,47.80
+514,"Gainesville","Florida",95447,48.20
+515,"Boston","Massachusetts",589141,48.40
+516,"Anaheim","California",328014,48.90
+517,"Chulasta","California",173556,48.90
+518,"High Point","North Carolina",85839,49.10
+519,"Tyler","Texas",83650,49.30
+520,"Lynchburg","Virginia",65269,49.40
+521,"Jackson","Tennessee",59643,49.50
+522,"Ontario","California",158007,49.80
+523,"Tacoma","Washington",193556,50.10
+524,"Gary","Indiana",102746,50.20
+525,"Long Beach","California",461522,50.40
+526,"Fort Smith","Arkansas",80268,50.40
+527,"Moreno Valley","California",142381,51.20
+528,"Concord","North Carolina",55977,51.60
+529,"Hampton","Virginia",146437,51.80
+530,"Las Cruces","New Mexico",74267,52.10
+531,"St. Paul","Minnesota",287151,52.80
+532,"Columbia","Missouri",84531,53.10
+533,"Decatur","Alabama",53929,53.40
+534,"Norfolk","Virginia",234403,53.70
+535,"Springfield","Illinois",111454,54.00
+536,"Olathe","Kansas",92962,54.20
+537,"Stockton","California",243771,54.70
+538,"Longview","Texas",73344,54.70
+539,"Sioux City","Iowa",85013,54.80
+540,"Minneapolis","Minnesota",382618,54.90
+541,"Thousand Oaks","California",117005,54.90
+542,"West Palm Beach","Florida",82103,55.10
+543,"Albany","Georgia",76939,55.50
+544,"Pittsburgh","Pennsylvania",334563,55.60
+545,"Glendale","Arizona",218812,55.70
+546,"Dayton","Ohio",166179,55.80
+547,"Macon","Georgia",97255,55.80
+548,"San Angelo","Texas",88439,55.90
+549,"Topeka","Kansas",122377,56.00
+550,"Rockford","Illinois",150115,56.00
+551,"Oakland","California",399484,56.10
+552,"Tuscaloosa","Alabama",77906,56.20
+553,"Sioux Falls","South Dakota",123975,56.30
+554,"Overland Park","Kansas",149080,56.80
+555,"Gulfport","Mississippi",71127,56.90
+556,"Garland","Texas",215768,57.10
+557,"Spokane","Washington",195629,57.80
+558,"Chandler","Arizona",176581,57.90
+559,"McKinney","Texas",54369,58.00
+560,"Redding","California",80865,58.40
+561,"North Charleston","South Carolina",79641,58.50
+562,"Daytona Beach","Florida",64112,58.70
+563,"San Bernardino","California",185401,58.80
+564,"Fayetteville","North Carolina",121015,58.80
+565,"Lee's Summit","Missouri",70700,59.50
+566,"St. Petersburg","Florida",248232,59.60
+567,"Richmond","Virginia",197790,60.10
+568,"Waterloo","Iowa",68747,60.70
+569,"Washington","DC",572059,61.40
+570,"Denton","Texas",80537,61.50
+571,"St. Louis","Missouri",348189,61.90
+572,"Louisville","Kentucky",256231,62.10
+573,"Akron","Ohio",217074,62.10
+574,"Davenport","Iowa",98359,62.80
+575,"Cedar Rapids","Iowa",120758,63.10
+576,"Palm Bay","Florida",79413,63.60
+577,"Flagstaff","Arizona",52894,63.60
+578,"Boise City","Idaho",185787,63.80
+579,"Temple","Texas",54514,65.40
+580,"Midland","Texas",94996,66.60
+581,"Irving","Texas",191615,67.20
+582,"Hesperia","California",62582,67.40
+583,"Duluth","Minnesota",86918,68.00
+584,"Newport News","Virginia",180150,68.30
+585,"Madison","Wisconsin",208054,68.70
+586,"Vineland","New Jersey",56271,68.70
+587,"Reno","Nevada",180480,69.10
+588,"Wichita Falls","Texas",104197,70.70
+589,"Grand Prairie","Texas",127427,71.40
+590,"Plano","Texas",222030,71.60
+591,"Victorville","California",64029,72.80
+592,"Springfield","Missouri",151580,73.20
+593,"Apple Valley","California",54239,73.30
+594,"Rio Rancho","New Mexico",51765,73.40
+595,"Lincoln","Nebraska",225581,74.60
+596,"Savannah","Georgia",131510,74.70
+597,"Lawton","Oklahoma",92757,75.10
+598,"Port St. Lucie","Florida",88769,75.50
+599,"Des Moines","Iowa",198682,75.80
+600,"Fremont","California",203413,76.70
+601,"Baton Rouge","Louisiana",227818,76.80
+602,"Cleveland","Ohio",478403,77.60
+603,"Cincinnati","Ohio",331285,78.00
+604,"Riverside","California",255166,78.10
+605,"Independence","Missouri",113288,78.30
+606,"North Las Vegas","Nevada",115488,78.50
+607,"Laredo","Texas",176576,78.50
+608,"Fort Wayne","Indiana",205727,79.00
+609,"Jonesboro","Arkansas",55515,79.60
+610,"Henderson","Nevada",175381,79.70
+611,"Brownsville","Texas",139722,80.40
+612,"Toledo","Ohio",313619,80.60
+613,"Baltimore","Maryland",651154,80.80
+614,"Port Arthur","Texas",57755,82.90
+615,"Seattle","Washington",563374,83.90
+616,"Waco","Texas",113726,84.20
+617,"Beaumont","Texas",113866,85.00
+618,"Edmond","Oklahoma",68315,85.10
+619,"Dothan","Alabama",57737,86.60
+620,"Amarillo","Texas",173627,89.90
+621,"Knoxville","Tennessee",173890,92.70
+622,"Orlando","Florida",185951,93.50
+623,"Lancaster","California",118718,94.00
+624,"Durham","North Carolina",187035,94.60
+625,"Clarksville","Tennessee",103455,94.90
+626,"Tallahassee","Florida",150624,95.70
+627,"Arlington","Texas",332969,95.80
+628,"Milwaukee","Wisconsin",596974,96.10
+629,"Charleston","South Carolina",96650,97.00
+630,"Sacramento","California",407018,97.20
+631,"Shreveport","Louisiana",200145,103.10
+632,"Fresno","California",427652,104.40
+633,"Greensboro","North Carolina",223891,104.70
+634,"Jackson","Mississippi",184256,104.90
+635,"Palmdale","California",116670,105.00
+636,"Abilene","Texas",115930,105.10
+637,"Cape Coral","Florida",102286,105.20
+638,"Yuma","Arizona",77515,106.70
+639,"Winston-Salem","North Carolina",185776,108.90
+640,"Salt Lake City","Utah",181743,109.10
+641,"Tampa","Florida",303447,112.10
+642,"Bakersfield","California",247057,113.10
+643,"Las Vegas","Nevada",478434,113.30
+644,"Raleigh","North Carolina",276093,114.60
+645,"Lubbock","Texas",199564,114.80
+646,"Omaha","Nebraska",390007,115.70
+647,"Little Rock","Arkansas",183133,116.20
+648,"Athens","Georgia",100266,117.80
+649,"Mobile","Alabama",198915,117.90
+650,"Kansas City","Kansas",146866,124.30
+651,"Mesa","Arizona",396375,125.00
+652,"Columbia","South Carolina",116278,125.20
+653,"Atlanta","Georgia",416474,131.80
+654,"Portland","Oregon",529121,134.30
+655,"Philadelphia","Pennsylvania",1517550,135.10
+656,"Chattanooga","Tennessee",155554,135.20
+657,"Wichita","Kansas",344284,135.80
+658,"Peoria","Arizona",108364,138.20
+659,"Detroit","Michigan",951270,138.80
+660,"Aurora CO","Colorado",276393,142.50
+661,"Carson","Nevada",52457,143.40
+662,"Birmingham","Alabama",242820,149.90
+663,"Denver","Colorado",554636,153.40
+664,"Corpus Christi","Texas",277454,154.60
+665,"Montgomery","Alabama",201568,155.40
+666,"Huntsville","Alabama",158216,174.10
+667,"San Jose","California",894943,174.90
+668,"Norman","Oklahoma",95694,177.00
+669,"New Orleans","Louisiana",484674,180.60
+670,"Albuquerque","New Mexico",448607,180.70
+671,"Tulsa","Oklahoma",393049,182.70
+672,"Scottsdale","Arizona",202705,184.20
+673,"Colorado Springs","Colorado",360890,185.80
+674,"Tucson","Arizona",486699,194.70
+675,"Columbus","Ohio",711470,210.30
+676,"Columbus","Georgia",185781,216.10
+677,"Chicago","Illinois",2896016,227.10
+678,"Charlotte","North Carolina",540828,242.30
+679,"Virginia Beach","Virginia",425257,248.30
+680,"El Paso","Texas",563662,249.10
+681,"Austin","Texas",656562,251.50
+682,"Memphis","Tennessee",650100,279.30
+683,"Lexington-Fa","Kentucky",260512,284.50
+684,"Fort Worth","Texas",534694,292.60
+685,"Augusta","Georgia",195182,302.10
+686,"New York","New York",8008278,303.30
+687,"Kansas City","Missouri",441545,313.60
+688,"San Diego","California",1223400,324.40
+689,"Chesapeake","Virginia",199184,340.70
+690,"Dallas","Texas",1188580,342.60
+691,"Indianapolis","Indiana",781870,361.50
+692,"Suffolk","Virginia",63677,400.00
+693,"San Antonio","Texas",1144646,407.60
+694,"Los Angeles","California",3694820,469.10
+695,"Nashville","Tennessee",545524,473.30
+696,"Phoenix","Arizona",1321045,474.90
+697,"Houston","Texas",1953631,579.50
+698,"Oklahoma City","Oklahoma",506132,607.00
+699,"Jacksonville","Florida",735617,757.70
+700,"Anchorage","Alaska",260283,1697.30
